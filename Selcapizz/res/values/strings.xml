@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Selcapizz Mobile</string>
+    <string name="casual_text">Pizza Casuale</string>
+    <string name="guided_text">Pizza Guidata</string>
+    <string-array name="baseArray">
+    	<item>Rossa</item>
+    	<item>Bianca</item>
+    	<item>Margherita</item>
+    </string-array>
+    <string-array name="arrayAggiunte">
+    	<item>Funghi</item>
+    	<item>Melanzane</item>
+    	<item>Wurstel</item>
+    	<item>Patatine</item>
+    	<item>Salsiccia</item>
+    	<item>Cipolla</item>
+    	<item>Olive</item>
+    	<item>Provola</item>
+    	<item>Salame</item>
+    	<item>Cotto</item>
+    	<item>Crudo</item>
+    	<item>Rucola</item>
+    </string-array>
+    <string-array name="numeroAggiunte">
+    	<item>2 Aggiunte</item>
+    	<item>3 Aggiunte</item>
+    	<item>5 Aggiunte</item>
+    </string-array>
+</resources>
